@@ -60,6 +60,9 @@ ss:Button("Ripper Hub",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/hajibeza/RIPPER-HUB/main/RIPPERHUBV2.lua%22))()
 end)
 
+ss:Button("Unique Hub",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AkiraNus/UniquehubKak/main/FreeCr.Xenonhub"))();
+end)
 
 -- King legacy
 
